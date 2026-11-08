@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hornlib/mcp",
+  "title": "HornLib — Interactive French Horn F/Bb Double Horn Fingering & Harmonics Engine",
+  "description": "Look up French Horn F/Bb double horn valve fingerings, trigger combinations & partials.",
+  "version": "1.0.3",
+  "websiteUrl": "https://hornlib.com",
+  "repository": {
+    "url": "https://github.com/HornLib/mcp-server",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://hornlib.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://hornlib.com/api/mcp"
+    }
+  ]
+}
