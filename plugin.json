@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hornlib",
+  "version": "1.0.3",
+  "description": "Interactive French Horn F/Bb double horn valve fingering chart, pitch transposer, harmonic series analyzer, orchestral excerpt guide, and brass pedagogy suite via HornLib MCP.",
+  "author": {
+    "name": "HornLib",
+    "email": "admin@hornlib.com",
+    "url": "https://hornlib.com"
+  },
+  "homepage": "https://hornlib.com",
+  "repository": "https://github.com/HornLib/mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "french-horn",
+    "fingering-chart",
+    "music-theory",
+    "brass-pedagogy",
+    "transposition",
+    "orchestral-excerpts",
+    "mcp",
+    "hornlib"
+  ],
+  "logo": "https://hornlib.com/icon.svg"
+}

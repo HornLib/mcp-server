@@ -1,0 +1,12 @@
+{
+  "name": "hornlib",
+  "version": "1.0.3",
+  "description": "Interactive French Horn F/Bb double horn fingering chart, pitch transposer, and orchestral excerpt reference for Gemini CLI",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "hornlib": {
+      "httpUrl": "https://hornlib.com/api/mcp",
+      "timeout": 15000
+    }
+  }
+}

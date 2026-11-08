@@ -1,0 +1,14 @@
+{
+  "name": "hornlib",
+  "description": "Look up French Horn F/Bb double horn valve fingerings, transpose brass pitches, analyze overtone harmonics, and query orchestral audition excerpts via HornLib MCP.",
+  "version": "1.0.3",
+  "author": {
+    "name": "HornLib",
+    "url": "https://hornlib.com"
+  },
+  "repository": "https://github.com/HornLib/mcp-server",
+  "license": "MIT",
+  "homepage": "https://hornlib.com",
+  "icon": "assets/logo.svg",
+  "privacyPolicyUrl": "https://hornlib.com/privacy"
+}

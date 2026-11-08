@@ -1,0 +1,35 @@
+{
+  "name": "hornlib",
+  "owner": {
+    "name": "HornLib",
+    "email": "admin@hornlib.com"
+  },
+  "metadata": {
+    "description": "Interactive French Horn F/Bb double horn fingering, transposition, harmonic series, and orchestral excerpt tools for AI agents",
+    "version": "1.0.3"
+  },
+  "plugins": [
+    {
+      "name": "hornlib",
+      "source": "./",
+      "description": "Look up French Horn F/Bb double horn valve fingerings, transpose brass pitches, analyze overtone harmonics, and query orchestral audition excerpts via HornLib MCP.",
+      "version": "1.0.3",
+      "author": {
+        "name": "HornLib"
+      },
+      "homepage": "https://hornlib.com",
+      "repository": "https://github.com/HornLib/mcp-server",
+      "license": "MIT",
+      "keywords": [
+        "french-horn",
+        "music-theory",
+        "fingering-chart",
+        "brass",
+        "mcp",
+        "education"
+      ],
+      "category": "education",
+      "strict": true
+    }
+  ]
+}

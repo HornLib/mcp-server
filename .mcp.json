@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hornlib": {
+      "type": "http",
+      "url": "https://hornlib.com/api/mcp"
+    }
+  }
+}
