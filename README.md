@@ -1,4 +1,6 @@
-# HornLib — Interactive French Horn F/Bb Double Horn Fingering & Harmonics Engine (`com.hornlib/mcp`)
+
+
+[![mcptry](https://mcptry.com/badge/com.hornlib/mcp)](https://mcptry.com/servers/com.hornlib/mcp)
 
 [![HornLib — Interactive French Horn Fingering Chart & Transposed Brass Sheet Music](./assets/cover.png)](https://hornlib.com)
 
