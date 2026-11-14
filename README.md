@@ -1,3 +1,5 @@
+[![MCPRush Listing](https://mcprush.com/badge/hornlib-interactive-french-horn-f-bb-double-h-mcp/card.svg)](https://mcprush.com/to/hornlib-interactive-french-horn-f-bb-double-h-mcp?ref=badge)
+
 # HornLib — Interactive French Horn F/Bb Double Horn Fingering & Harmonics Engine (`com.hornlib/mcp`)
 
 <p align="center">
